@@ -1,0 +1,23 @@
+[33mcommit 5979d3d622cbf68a1d542ebc3d9efd319515a51f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrefactor/html_semantico[m[33m)[m
+Author: Carlos enrique hernandez perera <22470060@campeche.tecnm.mx>
+Date:   Wed Mar 4 11:32:15 2026 -0600
+
+    Refactoriza la pagina utilizando html semantico
+
+[33mcommit e0bcd149853b04f6335d83e0be7c24d8f076a55c[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Carlos enrique hernandez perera <22470060@campeche.tecnm.mx>
+Date:   Thu Feb 26 11:18:15 2026 -0600
+
+    Agrega presentacion al documento a la pagina wed
+
+[33mcommit 26ac5011d4ba60b26bd8a61241cf823b7d67c4c3[m
+Author: Carlos enrique hernandez perera <22470060@campeche.tecnm.mx>
+Date:   Thu Feb 26 10:59:50 2026 -0600
+
+    Prepara el documento HTML para presentacion
+
+[33mcommit 0888030b6f4c427a81c3a1886963a7f7f545d0c8[m
+Author: Carlos enrique hernandez perera <22470060@campeche.tecnm.mx>
+Date:   Wed Feb 25 11:33:45 2026 -0600
+
+    Pagina wed con solo el contenido
